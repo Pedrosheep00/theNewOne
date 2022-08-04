@@ -50,7 +50,8 @@ public class Arrays {
 			
 			System.out.println("The no. of people whose height is above the average is: "+aboveAverageCounter);
 		
-		
+			//adding aaaaaaaaasdfgh
+			//changing the code ... 
 		}
 
 }
